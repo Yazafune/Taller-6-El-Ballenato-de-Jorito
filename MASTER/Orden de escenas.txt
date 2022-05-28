@@ -1,0 +1,11 @@
+Orden escenas
+
+MASTER AGUA Escena inicial
+MASTER PLAYA NOCHE jorito y carecoco
+MASTER PLAYA Escena v2 Manuel
+MASTER PLAYA Escena faltante entre escena v2 y la banda se presenta
+MASTER PLAYA La banda se Presenta
+MASTER PLAYA Jorito se presenta
+MASTER PLAYA Escena faltante entre Jorito se presenta y jorito triston
+MASTER PLAYA Jorito Triston
+MASTER AGUA Escena final
